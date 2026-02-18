@@ -1,0 +1,19 @@
+# Core web scraping
+selenium
+webdriver-manager
+beautifulsoup4
+lxml
+requests
+html5lib
+
+# Data analysis and storage
+pandas
+numpy
+
+# Optional tools (useful for advanced scraping)
+fake-useragent      # for rotating user agents
+tqdm                # for progress bars
+python-dotenv       # for loading API keys or credentials safely
+
+# Optional visualization or debugging
+matplotlib
